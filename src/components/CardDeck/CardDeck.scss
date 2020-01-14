@@ -1,0 +1,11 @@
+@import "../../constants.scss";
+
+.empty-card {
+	cursor: pointer;
+	border: 5px dashed $brand-white;
+	border-radius: 5px;
+	min-height: 250px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
